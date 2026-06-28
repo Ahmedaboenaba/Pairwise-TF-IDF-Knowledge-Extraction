@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+nltk
+rake-nltk
+wikipedia
+tqdm
+jupyter
+matplotlib
+seaborn
