@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 ### 2. Get the Dataset
 
-Download the [Goodreads Books CSV](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks) from Kaggle and place it at:
+Download the [Goodreads Books CSV](https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b) from Kaggle and place it at:
 
 ```
 data/raw/books.csv
@@ -195,7 +195,7 @@ This project implements the pairwise keyword extraction method described in:
 
 ## 👤 Author
 
-Ahmed Abo Enaba — Pre M.Sc. Machine Learning Practical, Semester 2
+Ahmed AboEnaba — Pre M.Sc AI. Machine Learning Practical, Semester 2
 
 ---
 
