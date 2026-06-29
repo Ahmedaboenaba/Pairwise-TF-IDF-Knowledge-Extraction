@@ -8,3 +8,4 @@ tqdm
 jupyter
 matplotlib
 seaborn
+wordcloud
